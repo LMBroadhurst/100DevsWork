@@ -1,0 +1,9 @@
+APIs...
+
+Like menus from a restaurant. We look at the menu and ask for an item, the API then sends us what we requested
+if we have permission.
+
+Think back to my python course... Here I simply got a URL that was linked to a specific server and sent me a 
+relevant response.
+
+Often the data is sent to us in JSON format - JavaScript Object Notation.
